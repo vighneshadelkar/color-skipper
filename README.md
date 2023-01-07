@@ -1,12 +1,11 @@
 # color-skipper
+https://vighneshadelkar.github.io/color/
 <br>
 <h1>Fixed Mode<h1>
-  <hr>
 <br>
 Would change the background-color according to the fixed hex-code.
 <br>
 <h1>Random Mode<h1>
-  <hr>
 <br>
 Will generate a random hex-code which would change the background-color with the color representing the hex-code.<br>
 
